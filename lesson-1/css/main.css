@@ -3,6 +3,26 @@
 //  MAIN CSS FILE [ HEADER ]
 // ==========================================================================
 **/
+<style>
 
+.wrapper{
+  display: flex;
+  background-color: #FDFEFE;
+  margin: 20px
+  padding: 10px
+}
+.main{
+
+  flex: 1;
+  background-color: lightgoldenrodyellow;
+  padding: 15px;
+}
+.sidebar{
+  flex: 1;
+  background-color: lightgreen
+  border: 2px solid red;
+  padding: 15px
+}
+</style>
 
 /* CSS FILE COMMENTS [ INLINE ] */
